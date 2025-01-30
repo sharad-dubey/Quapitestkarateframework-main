@@ -1,3 +1,5 @@
 # Playwright
 /test-results/
 /target/
+/.idea/
+/.settings/
